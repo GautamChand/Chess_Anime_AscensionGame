@@ -37,6 +37,22 @@ A Tensura-inspired strategy board game with:
 - **Final Boss Battle** against Veldanava with collection requirements
 - **Expectimax AI** for strategic board game decision-making
 
+# Home Page
+
+![Home Page](home_gameproject.png)
+
+# Chess
+
+![Chess](chess_game.png)
+
+# Tensura Game
+
+![Tensura(Anime Ascension)](image/tensura_game.png)
+
+# Character Discription
+
+![character Discription](image/tensura_game.png)
+
 ## 🏗 Tech Stack
 
 | Layer | Technology |

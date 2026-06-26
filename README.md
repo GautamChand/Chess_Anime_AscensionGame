@@ -120,5 +120,5 @@ Games_Project/
 
 ## 📜 License
 
-This project is built as a final-year Computer Science AI project for academic purposes.
+This project is built due to anime curiosity and anime fan.
 "# Chess_Anime_AscensionGame" 

@@ -47,7 +47,7 @@ A Tensura-inspired strategy board game with:
 
 # Tensura Game
 
-![Tensura(Anime Ascension)](image/tensura_game.png)
+![Tensura](image/tensura_game.png)
 
 # Character Discription
 

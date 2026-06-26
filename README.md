@@ -39,19 +39,19 @@ A Tensura-inspired strategy board game with:
 
 # Home Page
 
-![Home Page](home_gameproject.png)
+![Home Page](images/home_gameproject.png)
 
 # Chess
 
-![Chess](chess_game.png)
+![Chess](images/chess_game.png)
 
 # Tensura Game
 
-![Tensura](image/tensura_game.png)
+![Tensura-Anime Ascension](images/tensura_game.png)
 
 # Character Discription
 
-![character Discription](image/tensura_game.png)
+![character Discription](images/tensura_game.png)
 
 ## 🏗 Tech Stack
 
